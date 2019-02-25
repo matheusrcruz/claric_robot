@@ -3,3 +3,18 @@
 
 
 Robo para automatizar tarefas 
+
+* Ambiente*
+___________________________
+* Tenha o node v8 ou acima.
+* npm ou yarn(Vem instalado no node)
+* Git/Github.
+____________________________
+*Passos*
+ 1) Na pasta api de api abra o terminal ou CMD e instale as dependencias, ("npm -i ou yarn install").
+
+ 2) Verifique as funções no "index.js" e os pacotes instaldos no "package.json" .
+
+ 3) Inie o projeto (" node index.js "). 
+
+
