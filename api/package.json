@@ -1,0 +1,23 @@
+{
+  "name": "claric_robot",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://travis-ci.org/matheusrcruz/claric_robot.svg?branch=master)](https://travis-ci.org/matheusrcruz/claric_robot)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusrcruz/claric_robot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheusrcruz/claric_robot/issues"
+  },
+  "homepage": "https://github.com/matheusrcruz/claric_robot#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
