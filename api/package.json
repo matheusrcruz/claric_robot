@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/matheusrcruz/claric_robot/issues"
   },
-  "homepage": "https://github.com/matheusrcruz/claric_robot#readme"
+  "homepage": "https://github.com/matheusrcruz/claric_robot#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
