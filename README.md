@@ -17,9 +17,10 @@ ____________________________
 
  3) Incie o projeto (" node index.js "). 
  
+      *Se tudo der certo voce vera uma imagem parecida*
  
-![file:///home/matheus/Pictures/Screenshots/Screenshot%20from%202019-03-01%2020-15-51_modified.png]
  
+![screenshot from 2019-03-01 20-15-51_modified](https://user-images.githubusercontent.com/31409846/53672406-27e00d80-3c61-11e9-85e7-6e11ec0d5523.png) 
  
  
 
