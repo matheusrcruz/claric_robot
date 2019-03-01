@@ -4,10 +4,10 @@
 
 Robo para automatizar tarefas 
 
-* Ambiente*
+* Ambiente
 ___________________________
 * Tenha o node v8 ou acima.
-* npm ou yarn(Vem instalado no node)
+* npm ou yarn(Vem instalado no node).
 * Git/Github.
 ____________________________
 *Passos*
@@ -15,6 +15,9 @@ ____________________________
 
  2) Verifique as funções no "index.js" e os pacotes instaldos no "package.json" .
 
- 3) Inie o projeto (" node index.js "). 
+ 3) Incie o projeto (" node index.js "). 
+ 
+ 
+ 
 
 
