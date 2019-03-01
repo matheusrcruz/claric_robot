@@ -17,7 +17,7 @@ ____________________________
 
  3) Incie o projeto (" node index.js "). 
  
-![Uploding ( file:///home/matheus/Pictures/Screenshots/Screenshot%20from%202019-03-01%2020-15-51_modified.png)]
+![Uploding  file:///home/matheus/Pictures/Screenshots/Screenshot%20from%202019-03-01%2020-15-51_modified.png]()
  
  
  
